@@ -1,11 +1,12 @@
-<h1 align="center">Hi I'm Mathias Oxholm</h1>
-<h3 align="center">A passionate frontend developer from Denmark</h3>
+<h1 align="left">Hi I'm Mathias Oxholm</h1>
+<h3 align="left">A passionate frontend developer from Denmark</h3>
 
-- 🔭 I’m currently working at [Superego](https://superego.nu/)
+- I’m currently working at [Superego](https://superego.nu/)
 
-- 🌱 I’m currently learning **Next.js and GraphQL**
+- I’m currently learning **Next.js and GraphQL**
 
-<h3 align="left">Connect with me:</h3>
+##Connect with me:
+
 <p align="left">
 <a href="https://twitter.com/oxholmdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oxholmdev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mathiasoxholm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mathiasoxholm" height="30" width="40" /></a>
