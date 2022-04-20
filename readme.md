@@ -12,6 +12,7 @@
 </p>
 
 <h3 align="left">Languages and CMS:</h3>
+
 - HTML
 - CSS
 - JavaScript
@@ -25,6 +26,7 @@
 - Firebase
 
 <h3 align="left">Design tools:</h3>
+
 - Figma
 - Adobe XD
 - Adobe Illustrator
