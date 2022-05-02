@@ -2,7 +2,7 @@
 <h3 align="left">A passionate frontend developer from Denmark</h3>
 
 - Currently working at [Superego](https://superego.nu/)
-- Currently learning **Next.js and GraphQL**
+- Currently learning **Next.js, Typescript and GraphQL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
