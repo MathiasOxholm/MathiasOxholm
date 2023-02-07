@@ -1,7 +1,7 @@
 <h1 align="left">Hi I'm Mathias Oxholm</h1>
 <h3 align="left">A passionate frontend developer from Denmark</h3>
 
-- Currently working at [Superego](https://superego.nu/)
+- Currently working at [Novicell](https://novicell.com/)
 - Currently learning **Next.js, Typescript and GraphQL**
 
 <h3 align="left">Connect with me:</h3>
